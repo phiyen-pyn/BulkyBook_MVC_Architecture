@@ -1,0 +1,11 @@
+E:\Study at home\ASPNET_WebApp_ECommerce_MVC\BulkyBook\BulkyBook.Models\bin\Debug\net10.0\BulkyBook.Models.deps.json
+E:\Study at home\ASPNET_WebApp_ECommerce_MVC\BulkyBook\BulkyBook.Models\bin\Debug\net10.0\BulkyBook.Models.dll
+E:\Study at home\ASPNET_WebApp_ECommerce_MVC\BulkyBook\BulkyBook.Models\bin\Debug\net10.0\BulkyBook.Models.pdb
+E:\Study at home\ASPNET_WebApp_ECommerce_MVC\BulkyBook\BulkyBook.Models\obj\Debug\net10.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study at home\ASPNET_WebApp_ECommerce_MVC\BulkyBook\BulkyBook.Models\obj\Debug\net10.0\BulkyBook.Models.AssemblyInfoInputs.cache
+E:\Study at home\ASPNET_WebApp_ECommerce_MVC\BulkyBook\BulkyBook.Models\obj\Debug\net10.0\BulkyBook.Models.AssemblyInfo.cs
+E:\Study at home\ASPNET_WebApp_ECommerce_MVC\BulkyBook\BulkyBook.Models\obj\Debug\net10.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+E:\Study at home\ASPNET_WebApp_ECommerce_MVC\BulkyBook\BulkyBook.Models\obj\Debug\net10.0\BulkyBook.Models.dll
+E:\Study at home\ASPNET_WebApp_ECommerce_MVC\BulkyBook\BulkyBook.Models\obj\Debug\net10.0\refint\BulkyBook.Models.dll
+E:\Study at home\ASPNET_WebApp_ECommerce_MVC\BulkyBook\BulkyBook.Models\obj\Debug\net10.0\BulkyBook.Models.pdb
+E:\Study at home\ASPNET_WebApp_ECommerce_MVC\BulkyBook\BulkyBook.Models\obj\Debug\net10.0\ref\BulkyBook.Models.dll
